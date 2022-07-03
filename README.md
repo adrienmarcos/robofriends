@@ -1,3 +1,3 @@
-# RoboFriends
+# Robo-Friends
 
-### This is a React study project from the course Complete Web Developer - ZTM
+This is a ReactJs study project that I made while learning ReactJs
